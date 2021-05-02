@@ -1,8 +1,5 @@
 ### Hello/Nǐ Hǎo/Namaste/Kon'nichiwa 👋
 
-<!--
-**qjmdeleon/qjmdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 For starters, this is all about the current me: 
 
 - 🔭 I’m currently working on: Immerse.io Suite with React and React Native
@@ -16,4 +13,3 @@ For starters, this is all about the current me:
 - 💻 Programming Languages I know: PHP, HTML5, CSS, JavaScript
 - ⌨ Frameworks I know: React, React Native, Laravel, SaaS
 - ⚡ Fun fact: I'm currently flying in the wilderness in search of a client/work for my web dev services.
--->
