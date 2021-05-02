@@ -11,6 +11,7 @@ For starters, this is all about the current me:
 - 🤔 I’m looking for help with: NoSQL, AWS, Video Hosting
 - 💬 Ask me about: Current work status 😅
 - 📫 How to reach me: Philippines ( +63-9173731706 / +63-9288616673 )
+- 🌍 Websites: https://www.jmwdesigns.ml or https://www.quitethedev.ml
 - 😄 Languages I know: English, Filipino, Spanish
 - 💻 Programming Languages I know: PHP, HTML5, CSS, JavaScript
 - ⌨ Frameworks I know: React, React Native, Laravel, SaaS
